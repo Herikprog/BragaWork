@@ -1,0 +1,109 @@
+Crie um portfólio interativo em forma de jogo 3D, usando Three.js.
+
+1. Cenário — Cidade Futurista
+
+A cidade deve ser inspirada na estética da imagem de referência (cidade cyberpunk futurista noturna, com neons, hologramas, estruturas verticais e atmosfera densa).
+
+Elementos essenciais:
+
+Arranha-céus com letreiros luminosos animados e painéis holográficos.
+
+Ruas largas com luzes no chão que guiam o jogador.
+
+Névoa atmosférica e iluminação volumétrica (tons de azul, roxo, magenta, neon).
+
+Drones, naves leves ou carros voadores circulando.
+
+Billboards futuristas que funcionam como portas de entrada para projetos do portfólio.
+
+Áreas interativas (ex.: praças tecnológicas, estátuas futuristas, pontes suspensas).
+
+O céu deve ter estrelas e nuvens de néon (ou um céu artificial, simulando domo futurista).
+
+2. Personagem / Controle
+
+O jogador deve controlar um avatar em primeira pessoa ou terceira pessoa:
+
+Desktop:
+
+WASD → movimentação.
+
+Shift → correr.
+
+Espaço → pular.
+
+Mouse → olhar livre (com PointerLockControls).
+
+Esc → menu de pausa.
+
+Mobile:
+
+Joystick virtual para mover.
+
+Botão de pulo.
+
+Botão de corrida.
+
+Controle de câmera com arrastar o dedo (touch drag).
+
+Física simples de movimento (gravidade, colisão com prédios, impedir atravessar objetos).
+
+3. Interatividade
+
+Billboards de projetos:
+
+Cada billboard mostra o título do projeto e um thumbnail.
+
+Quando o jogador se aproxima, o billboard deve brilhar/pulsar.
+
+Ao clicar/tocar → abre o link do projeto em nova aba.
+
+NPCs futuristas ou drones:
+
+Devem voar ou andar pelo mapa, apenas como ambientação.
+
+Opcional: alguns NPCs podem dar dicas (mensagens do portfólio).
+
+4. HUD e Interface
+
+Mini-mapa circular mostrando a posição do jogador, os outdoors de projetos e pontos importantes.
+
+HUD discreto com título do jogo e instruções básicas.
+
+Menu de pausa (ESC ou botão no mobile):
+
+Retomar.
+
+Ver currículo (PDF).
+
+Links para redes sociais.
+
+Sair/voltar ao início.
+
+Overlay de erro caso bibliotecas externas não carreguem (ex.: Three.js, GSAP).
+
+5. Funcionalidades Extras
+
+Efeitos neon dinâmicos usando GSAP (letreiros piscando, drones com trilhas luminosas).
+
+Som ambiente:
+
+Música eletrônica futurista de fundo.
+
+Efeitos sonoros de drones, vento, energia.
+
+Controle de volume no menu de pausa.
+
+Sistema de iluminação:
+
+Luzes dinâmicas (letreiros, postes futuristas, veículos).
+
+Reflexos sutis no chão.
+
+6. Performance & Usabilidade
+
+Deve rodar suavemente em desktop e mobile (otimizar geometria e texturas).
+
+Carregamento com pré-loader animado (tela de carregamento futurista).
+
+Fallback para mostrar mensagem caso WebGL não seja suportado.
