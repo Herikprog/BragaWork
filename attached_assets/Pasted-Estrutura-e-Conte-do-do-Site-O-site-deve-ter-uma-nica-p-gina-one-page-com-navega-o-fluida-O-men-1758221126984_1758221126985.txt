@@ -1,0 +1,86 @@
+Estrutura e Conteúdo do Site
+O site deve ter uma única página (one-page) com navegação fluida. O menu de navegação fixo no topo da página deve incluir os seguintes itens, que levam a suas respectivas seções:
+
+Início
+
+Serviços
+
+Galeria
+
+Avaliações
+
+Contato
+
+Seções da Página
+1. Seção de Abertura (Hero)
+
+Título Principal: "Realce a sua beleza. Defina o seu olhar." ou uma variação similar.
+
+Subtítulo: "Serviços especializados em design de sobrancelhas, microblading e mais. Agende sua transformação!"
+
+Elemento de Destaque: Uma imagem ou vídeo de alta qualidade de uma cliente com sobrancelhas perfeitamente feitas.
+
+Botões de Chamada para Ação (CTA):
+
+Botão 1: "Agendar pelo WhatsApp" - Este botão deve ter um ícone do WhatsApp e, ao ser clicado, deve abrir o WhatsApp do studio com uma mensagem pré-definida. Exemplo de mensagem: "Olá, gostaria de agendar um horário para [tipo de serviço, se possível]."
+
+Botão 2: "Agendar pelo Zappy" - Este botão deve ser destacado e levar diretamente para a página de agendamento do Zappy (ou outra plataforma de agendamento de sua escolha).
+
+2. Seção "Nossos Serviços"
+
+Título: "Serviços para um Olhar Perfeito"
+
+Conteúdo: Crie blocos ou cards para cada serviço oferecido, como:
+
+Design de Sobrancelhas: Descrição curta e objetiva sobre o processo.
+
+Micropigmentação / Microblading: Explique a técnica, durabilidade e benefícios.
+
+Laminção de Sobrancelhas (Brow Lamination): Descreva o procedimento e o resultado.
+
+Henna: Detalhes sobre a aplicação e duração.
+
+Imagens: Cada serviço deve ser acompanhado por uma imagem de alta qualidade que ilustre o resultado.
+
+3. Seção "Galeria de Trabalhos"
+
+Título: "Transformações que Inspiram"
+
+Conteúdo: Uma galeria de imagens que mostre o antes e depois dos trabalhos. É crucial usar fotos de alta resolução, com iluminação consistente, para demonstrar a qualidade e a atenção aos detalhes. Esta seção pode ser uma galeria de fotos carrossel ou em grade.
+
+4. Seção "Avaliações de Clientes"
+
+Título: "O que Nossas Clientes Dizem"
+
+Conteúdo: Apresente depoimentos reais de clientes. Os depoimentos devem incluir o nome da cliente e, se possível, uma foto (com permissão) ou a nota de avaliação. O formato pode ser um carrossel que rola automaticamente, mostrando várias avaliações.
+
+5. Seção "Contato e Localização"
+
+Título: "Fale Conosco"
+
+Conteúdo: Inclua as seguintes informações de contato:
+
+Endereço completo (com um mapa interativo, como o Google Maps).
+
+Horário de funcionamento.
+
+Link para redes sociais (Instagram, Facebook).
+
+Formulário de contato simples (Nome, Email, Mensagem).
+
+Chamada para Ação Final: Repita os botões de agendamento do WhatsApp e Zappy nesta seção, tornando mais fácil para o cliente agendar, independentemente de onde ele esteja no site.
+
+Requisitos de Design e Animações
+Estilo: Design moderno, minimalista e elegante. Paleta de cores suave e profissional (sugira as cores, se tiver preferência).
+
+Animações:
+
+Transições Suaves: Animações para transições entre as seções.
+
+Efeitos de Rolagem (Scroll): Elementos que aparecem ou se animam conforme o usuário rola a página.
+
+Hover Effects: Animações sutis ao passar o mouse sobre botões, imagens e cards de serviço.
+
+Animação de Carregamento: Um logo ou ícone animado enquanto o site carrega.
+
+Observação: O designer deve usar animações de forma estratégica, sem exagerar, para garantir que o site carregue rapidamente e não se torne cansativo para o usuário.
